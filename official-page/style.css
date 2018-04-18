@@ -1,3 +1,24 @@
-body { font-family: 'InputSans'; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body {
+  font-family: 'InputSans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
 a { color: #0055FF; }
+
+.hero-image {
+  background-image: url("assets/cover.png");"
+  background-color: #333333;
+}
+
+.blue-bg-color {
+  background-color: #0055FF;
+}
+
+.text-blue {
+  color: #0055FF;
+}
+
+.lh-big {
+  line-height: 1.75;
+}
