@@ -1,0 +1,19 @@
+@font-face {
+    src: url('fonts/InputSans-Regular.eot'); /* IE < 9 */
+    src: url('fonts/InputSans-Regular.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/InputSans-Regular.woff2') format("woff2"),
+         url('fonts/InputSans-Regular.woff') format("woff");
+    font-family: 'InputSans';
+    font-style: normal;
+    font-weight: normal;
+    }
+
+@font-face {
+    src: url('fonts/InputSans-Bold.eot'); /* IE < 9 */
+    src: url('fonts/InputSans-Bold.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/InputSans-Bold.woff2') format("woff2"),
+         url('fonts/InputSans-Bold.woff') format("woff");
+    font-family: 'InputSans';
+    font-style: normal;
+    font-weight: bold;
+    }
